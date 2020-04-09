@@ -2,4 +2,6 @@
     <string name="app_name">myapp</string>
     <string name="my_great_app">My Great App</string>
     <string name="clickme">clickme</string>
+    <string name="submitText">Submit</string>
+    <string name="enter_your_name">enter your name?</string>
 </resources>

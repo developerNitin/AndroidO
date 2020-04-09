@@ -9,10 +9,12 @@ import android.widget.EditText;
 
 public class MainActivity extends AppCompatActivity {
 
-    EditText nameEditTest = (EditText) findViewById(R.id.nameEditText);
+    EditText nameEditText = (EditText) findViewById(R.id.nameEditText);
+    EditText passworEditText = (EditText) findViewById(R.id.passwordEditText);
 
     public void buttonClicked(View view) {
-        Log.i("info", nameEditTest.getText().toString());
+        Log.i("info", nameEditText.getText().toString());
+        Log.i("passord", passworEditText.getText().toString());
     }
 
     @Override
