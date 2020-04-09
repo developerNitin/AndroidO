@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">myapp</string>
+    <string name="my_great_app">My Great App</string>
+    <string name="clickme">clickme</string>
 </resources>
